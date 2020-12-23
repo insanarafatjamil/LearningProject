@@ -5,3 +5,5 @@ Fun!
 this is fun!
 
 We are learning to use Git
+
+pull kora sikhi
